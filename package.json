@@ -2,13 +2,13 @@
     "name": "namespace",
     "displayName": "C# Namespace Autocompletion",
     "description": "Full namespace autocompletion for C#",
-    "publisher": "adrianwilczynski",
+    "publisher": "linyuansup",
     "repository": {
         "type": "git",
-        "url": "https://github.com/AdrianWilczynski/NamespaceAutocompletion.git"
+        "url": "https://github.com/linyuansup/NamespaceAutocompletion.git"
     },
     "icon": "img/logo.png",
-    "version": "1.1.2",
+    "version": "1.2.0",
     "engines": {
         "vscode": "^1.32.0"
     },
@@ -24,6 +24,7 @@
         "Autocomplete",
         "IntelliSense",
         ".NET",
+        "Godot",
         ".NET Core"
     ],
     "activationEvents": [
