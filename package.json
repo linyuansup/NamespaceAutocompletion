@@ -1,6 +1,6 @@
 {
-    "name": "namespace",
-    "displayName": "C# Namespace Autocompletion",
+    "name": "namespace-autocompletion",
+    "displayName": "C# Namespace Autocompletion, support snake_case to PascalCase",
     "description": "Full namespace autocompletion for C#",
     "publisher": "linyuansup",
     "repository": {
